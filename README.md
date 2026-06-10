@@ -6,6 +6,7 @@ The personal context portfolio fixes this. It's a structured set of markdown fil
 
 It's not a resume. It's not a profile. It's an operating manual for any AI that works for you.
 
+
 ## What's In It
 
 Ten files, each covering a different dimension of who you are and how you work:
